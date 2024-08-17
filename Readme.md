@@ -1,9 +1,16 @@
 code repo for spotify clone web app 
-i have made this project using react js express.js and mongoDB 
+i have made this project using react js express and mongoDB <br/>
 i have created the similar ui to spotify app and have also developed 
 the backend logic for admin panel to add new songs and new albums or daily hits to 
 home screen of users 
 .
+<br /><br />
+
+
+
+
+
+
 ![add song](https://github.com/user-attachments/assets/6c2ac324-17b2-48ec-ab8f-1c4c0f57e769)
 ![list album](https://github.com/user-attachments/assets/7ef581b5-5b2c-4e19-ae9d-006329db6b70)
 ![home](https://github.com/user-attachments/assets/024fefef-e8ca-46ae-b3cd-ebf6025e0f15)
